@@ -1,0 +1,21 @@
+Ans1 >>>>>...
+SEO, or Search Engine Optimization, is a set of practices and strategies aimed at improving a website's visibility and ranking on 
+search engine results pages (SERPs). The primary goal of SEO is to attract organic (non-paid) traffic to a website by optimizing its content, structure, and various other 
+elements to align with the algorithms used by search engines like Google, Bing, and Yahoo.
+The importance of SEO -
+Meta tags are important for SEO because they provide information to search engines about the content on your
+site and can help improve your website's visibility and ranking in search engine results pages.
+
+
+Ans 3>>>...Meta tags are snippets of code within the HTML of a web page that provide information about the page's content to search engines and web browsers. 
+Improved Search Engine Visibility
+Enhanced Click-Through Rate (CTR)
+indexing and Crawling: Certain meta tags, like the meta robots tag, can instruct search engines on how to crawl and index a page
+Accessibility: Meta tags can also play a role in web accessibility.
+
+
+Ans 5>>>....A favicon that stands for a favorite icon is a tiny icon included along with a website, which is displayed in places
+like the browser's address bar, page tabs, and bookmarks menu. It is usually 16 * 16 pixels in size and stored in
+GIF, PNG, or ICO file format.
+They are used to improve user experience and enforce brand consistency. When a familiar icon is seen in the
+browser address bar.
